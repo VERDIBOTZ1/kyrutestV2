@@ -29,12 +29,10 @@ const defaultMenu = {
 ⁙┃𒆜  *http://wa.me/62878430549101*
 ∴╰┄━━━━┄➤`.trimStart(),
   header: '╭━━❰❬｢*%category*｣❭❱━┄➤',
-  body: '┃⃝〲%cmd %islimit %isPremium',
+  body: '┃⃝☠️%cmd %islimit %isPremium',
   footer: '╰━━┄➤\n',
   after: `
-**
-_Recode Oleh : Gopal_
-_SourceCode Ori By BoboiBoy_
+*𝙏 𝙍𝙚𝙭 𝘽𝙤𝙩*
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
