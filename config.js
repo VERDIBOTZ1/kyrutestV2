@@ -75,8 +75,8 @@ global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=tr
 
 // tingkat kesulitan, semakin tinggi semakin susah
 global.multiplier = 100 // The higher, The harder levelup
-H
-/*****************PEMBATAS*********************
+
+//*****************PEMBATAS*********************
 // JANGAN DI GANTI NTAR KLO GABISA JAN TANYA GW
 
 let fs = require('fs')
