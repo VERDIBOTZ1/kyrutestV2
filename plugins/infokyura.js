@@ -1,22 +1,16 @@
 let handler  = async (m, { conn, usedPrefix }) => { 
 conn.reply(m.chat, `
 ╭─˗ˏˋ *Informasi Owner* ´ˎ˗
-│ ✎ Nama : Kyura 
-│    Kelas : 11 DKV 2,SMK N 1 SAWAN
-│    Umur : 16
-│    Asal : Bali 
+│ ✎ Nama : Udin 
+│    Kelas : 12
+│    Umur : 10
+│    Asal : Indonesia 
 │    Status : gatau mw isi apa anj
-│    Suka : Jepang, Coding (dikit), B.Inggris
+│    Suka : Jepang, Tante-Tante, Kamu<3
 │ ✎ _Official Grup_ :
-│    bit.ly/officialgrupkanaobot
-│ ✎ _Instagram_ :
-│    bit.ly/instagramkyura
-│ ✎ _YouTube_ : 
-│    bit.ly/Youtubekyura
-│ ✎ _FaceBook_ :
-│    bit.ly/facebookkyura
+│    https://chat.whatsapp.com/BTwX27VABko0eBRLmFnAL9
 │ ✎ _WhatsApp_ :
-│    bit.ly/whatsappkyura
+│    http://wa.me/62895335400834
 ╰‿‿‿‿‿‿‿‿
 `.trim(), m)
 }
