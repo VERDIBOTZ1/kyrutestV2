@@ -11,14 +11,14 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'bit.ly/officialgrupkanaobot'
+gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['bit.ly/officialgrupkyurabot'] // ganti jadi group lu
-global.owner = ['6281998903280'] // Put your number here //owner eval
-global.kontak = ['6281998903280'] //Ketika ada yang ngetik #owner
-global.mods = ['6281998903280'] // Want some help?
-global.prems = ['6281998903280'] // Premium user has unlimited limit
+global.linkGC = ['https://chat.whatsapp.com/BTwX27VABko0eBRLmFnAL9'] // ganti jadi group lu
+global.owner = ['62895335400834'] // Put your number here //owner eval
+global.kontak = ['62895335400834'] //Ketika ada yang ngetik #owner
+global.mods = ['62895335400834'] // Want some help?
+global.prems = ['6289527393988'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -45,38 +45,38 @@ lolkey = 'RFK-Rey'
 zekskey = 'apivinz'
 xteamkey = '057f32b5931c3bce'
 //xteam     KYURABOT
-namaig = 'bit.ly/instagramkyura'
-namagithub = 'bit.ly/githubkyura'
-kasihcaption = `Nihh...`
-namakontak1 = 'Kyura'
-namakontak2 = 'Ardhi'
+namaig = 'bit.ly/instagramasepp'
+namagithub = 'bit.ly/githupasep21'
+kasihcaption = `Nihh Bwank...`
+namakontak1 = 'Gamtenk'
+namakontak2 = 'Cantik'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'From' // ganti aja
-global.author = 'KyuraBOT' // ganti aja
+global.packname = '𝙏 𝙍𝙚𝙭 𝘽𝙤𝙩' // ganti aja
+global.author = '𝙏 𝙍𝙚𝙭 𝘽𝙤𝙩' // ganti aja
 
 //yyy
-bc = 'KanaoBOT' //RFK Broadcast
-footer = '\n©Kyura'
-namabot = 'KanaoBOT'
-namalu = 'Kyura'
+bc = '𝙏 𝙍𝙚𝙭 𝘽𝙤𝙩' //RFK Broadcast
+footer = '\n©𝙏 𝙍𝙚𝙭'
+namabot = '𝙏 𝙍𝙚𝙭 𝘽𝙤𝙩'
+namalu = 'Udin'
 
 
 // 
 wait = 'cotto ne...tungguinn\ndemo..subscribe yaa\n youtube.com/c/KYURA'
-global.wait = 'anooo...matte nee...lgi diproses'
+global.wait = 'Tungguu.........lgi diproses'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
-global.eror = 'etto..gomenasai server nya error desu'
+global.eror = 'Waduh error Asuuu.......'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 // tingkat kesulitan, semakin tinggi semakin susah
 global.multiplier = 100 // The higher, The harder levelup
-
-//*****************PEMBATAS*********************
+H
+/*****************PEMBATAS*********************
 // JANGAN DI GANTI NTAR KLO GABISA JAN TANYA GW
 
 let fs = require('fs')
