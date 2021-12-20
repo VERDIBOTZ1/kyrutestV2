@@ -10,35 +10,31 @@ const defaultMenu = {
   before: `
 ┷━━━━━━━━━━━━━━━━╮
 ∴┰── *%me* ─┄➤⎠
-∴┃⃝〲 Hai, %name!
-∴┃⃝〲 *Tersisa* _%limit Limit_
-∴┃⃝〲 *Role* _%role_
-∴┃⃝〲 *Level* _%level (%exp / %maxexp)_
-∴┃⃝〲 _[%xp4levelup]_
-∴┃⃝〲 _%totalexp_ *XP secara Total*
+⁙┃𒆜  Hai, %name!
+∴┃𒆜  *Tersisa* _%limit Limit_
+⁙┃𒆜  *Role* _%role_
+∴┃𒆜  *Level* _%level (%exp / %maxexp)_
+∴┃𒆜  _[%xp4levelup]_
+∴┃𒆜  _%totalexp_ *XP secara Total*
 ∴┃ 
-∴┃⃝〲 *Hari* : _%week %weton_ 
-∴┃⃝〲 *Tanggal* : _%date_
-∴┃⃝〲 *Tanggal Islam* : 
-∴┃⃝〲 _%dateIslamic_
-∴┃⃝〲 *Waktu* : _%time_
+∴┃𒆜  *Hari* : _%week %weton_ 
+∴┃𒆜  *Tanggal* : _%date_
+∴┃𒆜  *Tanggal Islam* : 
+∴┃𒆜  _%dateIslamic_
+∴┃𒆜  *Waktu* : _%time_
 ∴┃
-∴┃⃝〲 *Uptime* : _%uptime (%muptime)_
-∴┃⃝〲 *Database* : _%rtotalreg dari %totalreg_
-∴┃⃝〲 *Github* : 
-∴┃   bit.ly/githubkyura
-∴┃⃝〲 *Youtube* : 
-∴┃   bit.ly/youtubekyura
-∴┃⃝〲 *Source Code* :
-∴┃   github.com/KyuraSaja/kyurabotV2
+∴┃𒆜  *Uptime* : _%uptime (%muptime)_
+∴┃𒆜  *Database* : _%rtotalreg dari %totalreg_
+∴┃𒆜  *Owner* : 
+⁙┃𒆜  *http://wa.me/62878430549101*
 ∴╰┄━━━━┄➤`.trimStart(),
   header: '╭━━❰❬｢*%category*｣❭❱━┄➤',
   body: '┃⃝〲%cmd %islimit %isPremium',
   footer: '╰━━┄➤\n',
   after: `
-*KyuraBot*
-_Recode Oleh : Kyura_
-_SourceCode Ori By Nurutomo_
+**
+_Recode Oleh : Gopal_
+_SourceCode Ori By BoboiBoy_
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
@@ -236,18 +232,18 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
           "title": `${ucapan()}, ${name}`.trim(),
           "description": `
 ╭┄━❰❬｢ Status ｣❭❱━┄⬣
-┊⬡ Aktif selama _${uptime}_
-┃⬡ Baterai ${conn.battery != undefined ? `${conn.battery.value}% ${conn.battery.live ? '🔌 pengisian' : ''}` : 'tidak diketahui'}
-┃⬡ *${Object.keys(global.db.data.users).length}* Pengguna
-┃⬡ *${totaljadibot.length}* Jadibot
-┃⬡ *${conn.blocklist.length}* Terblock
-┃⬡ *${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}* Chat Terbanned
-┃⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
+┊𒆜  *Aktif selama* _${uptime}_
+┃𒆜  *Baterai* ${conn.battery != undefined ? `${conn.battery.value}% ${conn.battery.live ? '🔌 pengisian' : ''}` : 'tidak diketahui'}
+┃𒆜  *${Object.keys(global.db.data.users).length}* Pengguna
+┃𒆜  *${totaljadibot.length}* Jadibot
+┃𒆜  *${conn.blocklist.length}* Terblock
+┃𒆜  *${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}* Chat Terbanned
+┃𒆜  *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
 ┃
-┃⬡ Group Official:
-┊   ${gc1}
+┃𒆜  *Group Official*:
+┊    ${gc1}
 ╰┄━━━━━━┄➤`.trim(),
-          "buttonText": "Menu Disini",
+          "buttonText": "Klik Tod",
           "listType": "SINGLE_SELECT",
           "sections": [
             {
