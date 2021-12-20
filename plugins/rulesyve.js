@@ -26,14 +26,13 @@ let handler  = async (m, { conn, usedPrefix }) => {
 │✎ *Uptime:* ${uptime}
 │
 ╭─˗ˏˋ *Donasi*  ´ˎ˗
-│✎ Pulsa : 089677763976
-│✎ Dana & OVO: 089677763976
+│✎ Pulsa : 082262278762
 │
-│✎Official Grup :
-│${gc1}
+│✎ Official Grup :
+│  https://chat.whatsapp.com/BTwX27VABko0eBRLmFnAL9
 │
 │©2021 ${namabot}
-│ Script original by Nurutomo
+│
 ╰‿‿‿‿‿${namabot}‿‿‿‿‿‿ 
 `.trim(), m)
 }
