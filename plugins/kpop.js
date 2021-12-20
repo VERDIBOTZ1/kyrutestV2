@@ -10,10 +10,10 @@ let handler = async(m, { conn, args, usedPrefix }) => {
             .then(body => {
                 let randomkpop = body.split('\n')
                 let randomkpopx = randomkpop[Math.floor(Math.random() * randomkpop.length)]
-                conn.sendFile(m.chat, randomkpopx, '', 'Dasar Kpopers', m)
+                conn.sendFile(m.chat, randomkpopx, '', 'Dasar Sampah', m)
             })
             .catch(() => {
-                conn.reply(m.chat, 'Ada yang Error cuy... Bisa tanyakan ke\n*Instagram:* @rendycraft047!', m)
+                conn.reply(m.chat, 'Ada yang Error cuy... Bisa tanyakan ke\n*Whatsapp:* http://wa.me/62895335400834!', m)
             })
     } else {
         conn.reply(m.chat, `Maaf query tidak tersedia. Silahkan ketik ${usedPrefix}kpop untuk melihat list query`, m)
