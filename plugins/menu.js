@@ -26,7 +26,7 @@ const defaultMenu = {
 ∴┃𒆜  *Uptime* : _%uptime (%muptime)_
 ∴┃𒆜  *Database* : _%rtotalreg dari %totalreg_
 ∴┃𒆜  *Owner* : 
-⁙┃𒆜  *http://wa.me/62878430549101*
+⁙┃𒆜  *http://wa.me/62895335400834*
 ∴╰┄━━━━┄➤`.trimStart(),
   header: '╭━━❰❬｢*%category*｣❭❱━┄➤',
   body: '┃⃝☠️%cmd %islimit %isPremium',
@@ -239,7 +239,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┃𒆜  *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* Pengguna Terbanned
 ┃
 ┃𒆜  *Group Official*:
-┊    ${gc1}
+┊     https://chat.whatsapp.com/BTwX27VABko0eBRLmFnAL9
 ╰┄━━━━━━┄➤`.trim(),
           "buttonText": "Klik Tod",
           "listType": "SINGLE_SELECT",
