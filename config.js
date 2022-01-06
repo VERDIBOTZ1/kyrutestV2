@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/BTwX27VABko0eBRLmFnAL9'] // ganti jadi group lu
-global.owner = ['62895335400834'] // Put your number here //owner eval
-global.kontak = ['62895335400834'] //Ketika ada yang ngetik #owner
-global.mods = ['62895335400834'] // Want some help?
-global.prems = ['6289527393988'] // Premium user has unlimited limit
+global.linkGC = ['GADA GRUP'] // ganti jadi group lu
+global.owner = ['6283869803330'] // Put your number here //owner eval
+global.kontak = ['6283869803330'] //Ketika ada yang ngetik #owner
+global.mods = ['6283869803330'] // Want some help?
+global.prems = ['6283869803330'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -47,11 +47,11 @@ xteamkey = '057f32b5931c3bce'
 //xteam     KYURABOT
 namaig = 'bit.ly/instagramasepp'
 namagithub = 'bit.ly/githupasep21'
-kasihcaption = `Nihh Bwank...`
-namakontak1 = 'Gamtenk'
-namakontak2 = 'Cantik'
+kasihcaption = `Nihh BEBAN...`
+namakontak1 = 'Gamtenk NIH GENK'
+namakontak2 = 'ANAK GANTENG'
 
-//kasihcaption = `Nih Kak`
+//kasihcaption = `Nih ASU`
 
 // Sticker WM
 global.packname = '𝙏 𝙍𝙚𝙭 𝘽𝙤𝙩' // ganti aja
@@ -60,8 +60,8 @@ global.author = '𝙏 𝙍𝙚𝙭 𝘽𝙤𝙩' // ganti aja
 //yyy
 bc = '𝙏 𝙍𝙚𝙭 𝘽𝙤𝙩' //RFK Broadcast
 footer = '\n©𝙏 𝙍𝙚𝙭'
-namabot = '𝙏 𝙍𝙚𝙭 𝘽𝙤𝙩'
-namalu = 'Udin'
+namabot = 'VERDIBOTZ1'
+namalu = 'VERDI'
 
 
 // 
@@ -69,7 +69,7 @@ wait = 'Sambil Kamu...Nungguinn\nNonton..Bokep Dulu yaa\n Xnxx.com'
 global.wait = 'Tungguu.........lgi diproses'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
-global.eror = 'Waduh error Asuuu.......'
+global.eror = 'Waduh error Asuuu gara gara lu.....'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
